@@ -1,9 +1,5 @@
 <h1 align="center">Hi there, I'm starxzs 👋</h1>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=starxzs&show_icons=true&theme=radical" alt="starxzs's GitHub stats" />
-</p>
-
 ## 🚀 About Me
 I'm a Graphic Designer and Developer with a passion for creating. I have experience in a variety of areas including:
 
@@ -24,15 +20,15 @@ I love the process of creating and improving designs and code to make user exper
 ## 🎯 Projects
 Here are some of the projects I've worked on:
 
-- **StarGaming NTA** A custom RolePlay gamemode for Multi Theft Auto that prevents cheaters and has a beautiful ui matched to the 2024 standarts.
-- **OwlGamingPlus MTA** A RolePlay gamemode for Multi Theft Auto based on OwlGaming with a plan to make a better open-source starting roleplay gamemode.
-- **Latvian MTA** I have worked on 10+ more projects for Multi Theft Auto, but i won't list them here, they don't exist anymore.
+- **StarGaming MTA:** A custom RolePlay gamemode for Multi Theft Auto that prevents cheaters and has a beautiful ui matched to the 2024 standarts.
+- **OwlGamingPlus MTA:** A RolePlay gamemode for Multi Theft Auto based on OwlGaming with a plan to make a better open-source starting roleplay gamemode.
+- **Latvian MTA:** I have worked on 10+ more projects for Multi Theft Auto, but i won't list them here, they don't exist anymore.
 
 ## 🎯 Future Projects
 Here are some of my future projects:
 
-- **StarGaming FiveM** A RolePlay Latvian server on QB-Core framework.
-- **OwlGamingPlus MTA** Maybe one day i will finish this old gamemode.
+- **StarGaming FiveM:** A RolePlay Latvian server on QB-Core framework.
+- **OwlGamingPlus MTA:** Maybe one day i will finish this old gamemode.
 
 ## 📫 Contact Me
 Feel free to reach out if you want to collaborate on a project, need some help, or just want to chat! You can reach me at email or discord.
@@ -40,3 +36,6 @@ Feel free to reach out if you want to collaborate on a project, need some help, 
  - starxzs@mail.lv
 starxzs on discord for the fastest possible answer. :)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=starxzs&show_icons=true&theme=radical" alt="starxzs's GitHub stats" />
+</p>
