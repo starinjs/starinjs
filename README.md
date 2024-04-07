@@ -40,10 +40,9 @@ Here are some of my future projects:
 Feel free to reach out if you want to collaborate on a project, need some help, or just want to chat! You can reach me at email or discord.
  - starxzs@mail.com
  - starxzs@mail.lv
-
-starxzs on discord for the fastest possible answer. :)
+ - starxzs on discord for the fastest possible answer. :)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=starinjs&show_icons=true&theme=radical" alt="starxzs's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=starinjs&show_icons=true&theme=radical" alt="starxzs GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starinjs&layout=compact&theme=radical" alt="Top Languages" />
 </p>
