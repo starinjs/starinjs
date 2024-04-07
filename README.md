@@ -1,4 +1,10 @@
 <h1 align="center">Hi there, I'm starxzs 👋</h1>
+<p align="center">
+  <a href="https://discord.gg/5PPdx6EAfK"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=black" alt="Discord"></a>
+  <a href="https://github.com/starinjs"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"></a>
+  <a href="https://steamcommunity.com/id/starxzsproductions/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=black" alt="Steam"></a>
+  <a href="https://www.youtube.com/channel/starxzs"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=black" alt="YouTube"></a>
+</p>
 
 ## 🚀 About Me
 I'm a Graphic Designer and Developer with a passion for creating. I have experience in a variety of areas including:
@@ -38,6 +44,6 @@ Feel free to reach out if you want to collaborate on a project, need some help, 
 starxzs on discord for the fastest possible answer. :)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=starxzs&show_icons=true&theme=radical" alt="starxzs's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starxzs&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=starinjs&show_icons=true&theme=radical" alt="starxzs's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starinjs&layout=compact&theme=radical" alt="Top Languages" />
 </p>
